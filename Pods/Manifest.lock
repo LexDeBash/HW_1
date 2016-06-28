@@ -1,0 +1,21 @@
+PODS:
+  - ASOAnimatedButton (1.0.1):
+    - ASOAnimatedButton/BounceButton (= 1.0.1)
+    - ASOAnimatedButton/TwoStateButton (= 1.0.1)
+  - ASOAnimatedButton/BounceButton (1.0.1)
+  - ASOAnimatedButton/TwoStateButton (1.0.1)
+  - Realm (1.0.1):
+    - Realm/Headers (= 1.0.1)
+  - Realm/Headers (1.0.1)
+
+DEPENDENCIES:
+  - ASOAnimatedButton (~> 1.0)
+  - Realm (~> 1.0)
+
+SPEC CHECKSUMS:
+  ASOAnimatedButton: bb540920a97dd1ee7eca6434c6225572d4570042
+  Realm: 2e15e39d35b08abb529e212ed5d8af107b5236c8
+
+PODFILE CHECKSUM: 8c158478538317afda47c5974b51c7c688a1cde7
+
+COCOAPODS: 1.0.1
